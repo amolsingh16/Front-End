@@ -1,0 +1,36 @@
+.main{
+    width: 1000px;
+    height: 540px;
+    background: #e90e0e;
+}
+.r1{
+    height: 100px;
+    width: 1000px;
+    color: aliceblue;
+    background: #7529ef;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic
+    
+}
+.r2{
+    width: 1000px;
+    height: 40px;
+    background: #1bc729;
+    text-align: center;
+}
+.r2c1{
+    float: left;
+    width: 200px;
+    height: 40px;
+    background: #83d27d;
+}
+.r3{
+    background: #a6ddf3;
+    height: 100px;
+    width: 1000px;
+}
+.r3c1{
+    height: ;
+}
